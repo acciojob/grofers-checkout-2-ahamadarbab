@@ -1,7 +1,7 @@
 //your code here
 
 // select all price cells
-let prices = document.querySelectorAll('[data-ns-test="prices"]');
+let prices = document.querySelectorAll('[data-ns-test="price"]');
 
 let total = 0;
 
